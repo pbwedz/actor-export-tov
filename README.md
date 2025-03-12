@@ -4,7 +4,7 @@ This allows Foundry VTT users to export Tales of the Valiant Characters to a PDF
 High Level Instructions:
 1) Open up your version of Foundry and install the Module: 'Actor export' and add that Module to your Game World.
 2) Download the files 'Export ToV.txt' and 'ToV BF41.pdf' to your PC from this project.
-3) Edit the 'Export ToV.txt' file and where it says YOURSERVERHERE on the first line, replace that with name of your server.  If you are using your PC for hosting, Localhost:30000 works, assuming you are using the default port.  Save the file.
+3) Edit the 'Export ToV.txt' file and where it says YOURSERVERHERE on the first line, replace that with name of your server.  If you are using your PC for hosting, Localhost:30000 works, assuming you are using the default port.  Save the file.  Note: If you are using Forge or another provider, you likely have to change http: to https:, review what the example says.
 4) In your Game World in Foundry, click on the 'Game Settings' tab, click on 'Configure Settings' and choose the 'Actor export' tab.
 5) Click on the Custom Provider button and in the white area, copy and paste all rows from 'Export ToV.txt' into that area.  Save changes in Foundry.
 6) Open a Character in Foundry that you want to export and click on the 'Export' button at the top right of the character sheet.  In the box that appears, check the 'Custom Provider' checkbox and click on the 'Choose File' button.  In the 'Open' window that appears, click on the 'ToV BF41.pdf' you downloaded and hit 'Open'.  Click Download.
