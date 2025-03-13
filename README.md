@@ -14,4 +14,5 @@ Notes:
 
 Kobold Press' pdf file will not work with this code, as I had to change the orginal file from KP.  Once the code is more stable, KP has said they will replace their file with mine so it will work in the future.
 
-Video Instructions: Soon :)
+Video Instructions: [Soon :)
+](https://youtu.be/vQKdirbDKG8)
